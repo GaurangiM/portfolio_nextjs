@@ -1,6 +1,9 @@
 import Head from "next/head";
 import Hero from '@/components/Hero';
 import About from "@/components/about";
+import Skills from '@/components/Skills';
+import Projects from '@/components/Projects';
+import Contact from '@/components/Contact';
 import Image from "next/image";
 import { Inter } from "next/font/google";
 import styles from "@/styles/Home.module.css";
@@ -19,6 +22,9 @@ export default function Home() {
       <div>
         <Hero/>
         <About/>
+        <Skills />
+        <Projects />
+        <Contact />
       </div>
     </>
   );

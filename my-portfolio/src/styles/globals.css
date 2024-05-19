@@ -118,8 +118,8 @@ hr {
 }
 
 .hero-container .profile-img {
-  width: 200px;
-  height: 200px;
+  width: 300px;
+  height: 300px;
   border-radius: 50%;
   margin: 0 auto;
   object-fit: cover;
@@ -158,7 +158,7 @@ hr {
 
 .hero-container .social-icons a {
   color: #9B9C9D;
-  font-size: 1.5rem;
+  font-size: 2rem;
   transition: all 0.5s ease-in-out;
 }
 
@@ -289,8 +289,16 @@ hr {
   background-color: #339933;
 }
 
-.skills-container .grid-skills .python:hover {
+.skills-container .grid-skills .typescript:hover {
   background-color: #3776AB;
+}
+
+.skills-container .grid-skills .redux:hover {
+  background-color: #D9DF87;
+}
+
+.skills-container .grid-skills .flutter:hover {
+  background-color: #FFCE7A;
 }
 
 /* Projects */

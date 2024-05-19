@@ -12,15 +12,7 @@ I am a creative person by nature and I feel my job as a Front end developer give
         </p>
         <div className="social-icons">
           <a
-            href="https://twitter.com/olawanle_joel"
-            aria-label="Twitter"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <i className="fa-brands fa-twitter"></i>
-          </a>
-          <a
-            href="https://github.com/olawanlejoel"
+            href="https://github.com/GaurangiM"
             aria-label="GitHub"
             target="_blank"
             rel="noopener noreferrer"
