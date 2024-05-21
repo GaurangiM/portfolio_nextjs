@@ -29,9 +29,9 @@ export const projectData = [
   },
   {
     id: 5,
-    title: 'Dynamic filtering',
+    title: 'Real-time Filtering',
     description:
-      'A solution for technicians in the field, replacing the paper-based way of working with a digital workflow. Technicians receive Work Orders (tasks to perform at a location), for example resolving failures in a broken installation. Technicians have an overview of Work Orders and want to filter their Work Orders so they can work as efficient as possible.',
+      'A solution for technicians in the field, replacing the paper-based way of working with a digital workflow. Technicians receive jobs/orders (tasks to perform at a location), for example resolving failures in a broken installation. Technicians have an overview of jobs and want to filter their jobs so they can work as efficient as possible.',
     gitHubLink: 'https://github.com/GaurangiM/work-orders',
   },
 ];

@@ -8,7 +8,7 @@ const Navbar = () => {
           Gaurangi's Portfolio
         </Link>
       </div>
-      <a href="" className="cta-btn">Resume</a>
+      <a href="https://www.canva.com/design/DAEj6STCrCw/NI8HXOZDrHurhTHYKCL3zQ/view?utm_content=DAEj6STCrCw&utm_campaign=designshare&utm_medium=link&utm_source=editor" className="cta-btn">Resume</a>
     </div>
   )
 }
