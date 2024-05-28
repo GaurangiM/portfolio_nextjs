@@ -22,13 +22,6 @@ export const projectData = [
   },
   {
     id: 4,
-    title: 'Coffeegram',
-    description:
-      'CoffeeGram is a web-based application, a community of people who share their common love for Coffee and Cafes. Here you can browse through an exclusive list of Cafes in different cities of Netherlands. Also, you can read through short description of cafe, look at the pictures of cafe and view the reviews posted by members of our community.',
-    gitHubLink: 'https://github.com/GaurangiM/coffeegram-react-frontend',
-  },
-  {
-    id: 5,
     title: 'Real-time Filtering',
     description:
       'A solution for technicians in the field, replacing the paper-based way of working with a digital workflow. Technicians receive jobs/orders (tasks to perform at a location), for example resolving failures in a broken installation. Technicians have an overview of jobs and want to filter their jobs so they can work as efficient as possible.',
